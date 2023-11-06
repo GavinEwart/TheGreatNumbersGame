@@ -1,10 +1,10 @@
 # The Great Numbers Game
 
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/the-great-numbers-game)
-![GitHub stars](https://img.shields.io/github/stars/your-username/the-great-numbers-game?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/the-great-numbers-game?style=social)
-![GitHub issues](https://img.shields.io/github/issues/your-username/the-great-numbers-game)
-![GitHub license](https://img.shields.io/github/license/your-username/the-great-numbers-game)
+![GitHub repo size](https://img.shields.io/github/repo-size/GavinEwart/TheGreatNumbersGame)
+![GitHub stars](https://img.shields.io/github/stars/GavinEwart/TheGreatNumbersGame?style=social)
+![GitHub forks](https://img.shields.io/github/forks/GavinEwart/TheGreatNumbersGame?style=social)
+![GitHub issues](https://img.shields.io/github/issues/GavinEwart/TheGreatNumbersGame)
+![GitHub license](https://img.shields.io/github/license/GavinEwart/TheGreatNumbersGame)
 
 Welcome to "The Great Numbers Game," a fun and interactive Flask web application where you can test your guessing skills by attempting to guess a randomly generated number between 1 and 100.
 
